@@ -3,13 +3,15 @@
 Concepts used:
 
 Basic Python
+Flask
 MySQL
 DDL
 DML
 DCL
 DQL
-
 Python - MySQL Connectivity
-Library Used
+
+Library Used :
+
 Matplotlib.pyplot
 mysql.connector
